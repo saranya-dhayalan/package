@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "addition.js",
+  "scripts": {
+    "test": "add"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranya-dhayalan/package.git"
+  },
+  "keywords": [
+    "add"
+  ],
+  "author": "saranya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranya-dhayalan/package/issues"
+  },
+  "homepage": "https://github.com/saranya-dhayalan/package#readme"
+}
